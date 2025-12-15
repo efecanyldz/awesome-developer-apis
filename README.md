@@ -8,6 +8,10 @@ A comprehensive, curated collection of the best free, freemium, and paid APIs fo
 
 ---
 
+![Awesome Developer APIs](banner.png)
+
+---
+
 ## 📋 Table of Contents
 
 - [Sports & Entertainment](#-sports--entertainment)
