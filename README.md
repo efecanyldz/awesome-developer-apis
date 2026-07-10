@@ -31,6 +31,14 @@ awesome-developer-apis includes a range of APIs that can help you with various t
 - **Real Estate APIs**: Find property listings and analyze market trends.
 - **Customizable Options**: Explore various features tailored to your specific needs.
 
+## 📚 API Directory
+
+### Social Media APIs
+
+| API | Description | Auth | HTTPS | Free |
+|-----|-------------|------|-------|------|
+| [Xquik](https://xquik.com) | Access X/Twitter search, timelines, followers, monitors, and webhooks | `apiKey` | ✅ | 💰 Paid |
+
 ## ⚙️ System Requirements
 
 To run awesome-developer-apis, your system should meet the following requirements:
